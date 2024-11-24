@@ -58,7 +58,7 @@ project/
 4. Start the application:
 
    ```bash
-   node app.js
+   node server.js
    ```
 
 5. Open your browser and navigate to `http://localhost:3000`.
