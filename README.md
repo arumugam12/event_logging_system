@@ -29,7 +29,7 @@ project/
 │   └── hashUtil.js
 ├── config/
 │   └── db.js
-├── app.js
+├── server.js
 ├── README.md
 └── package.json
 ```
